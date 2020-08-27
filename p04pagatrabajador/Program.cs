@@ -25,7 +25,9 @@ namespace p04pagatrabajador
            Console.WriteLine($"El trabajador de nombre {nombre}");
            Console.WriteLine($"Trabajo {horas} horas");
            Console.WriteLine($"Con una paga de {paga} pesos");
-           Console.WriteLine($" {nombre}");
+           Console.WriteLine($"Por lo cual recibe una paga bruta de  {pagabruta} pesos");
+           Console.WriteLine($"Esto genera un impusto de {impuesto} pesos");
+           Console.WriteLine($"Al final llega a su casa con la miserabe cantidad de {pagoneta} pesos"); 
 
            
     }
