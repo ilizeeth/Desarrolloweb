@@ -1,0 +1,13 @@
+C:\Desarrollo\p02reacirculo\bin\Debug\netcoreapp3.1\p02reacirculo.exe
+C:\Desarrollo\p02reacirculo\bin\Debug\netcoreapp3.1\p02reacirculo.deps.json
+C:\Desarrollo\p02reacirculo\bin\Debug\netcoreapp3.1\p02reacirculo.runtimeconfig.json
+C:\Desarrollo\p02reacirculo\bin\Debug\netcoreapp3.1\p02reacirculo.runtimeconfig.dev.json
+C:\Desarrollo\p02reacirculo\bin\Debug\netcoreapp3.1\p02reacirculo.dll
+C:\Desarrollo\p02reacirculo\bin\Debug\netcoreapp3.1\p02reacirculo.pdb
+C:\Desarrollo\p02reacirculo\obj\Debug\netcoreapp3.1\p02reacirculo.csprojAssemblyReference.cache
+C:\Desarrollo\p02reacirculo\obj\Debug\netcoreapp3.1\p02reacirculo.AssemblyInfoInputs.cache
+C:\Desarrollo\p02reacirculo\obj\Debug\netcoreapp3.1\p02reacirculo.AssemblyInfo.cs
+C:\Desarrollo\p02reacirculo\obj\Debug\netcoreapp3.1\p02reacirculo.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p02reacirculo\obj\Debug\netcoreapp3.1\p02reacirculo.dll
+C:\Desarrollo\p02reacirculo\obj\Debug\netcoreapp3.1\p02reacirculo.pdb
+C:\Desarrollo\p02reacirculo\obj\Debug\netcoreapp3.1\p02reacirculo.genruntimeconfig.cache
