@@ -1,0 +1,13 @@
+C:\Desarrollo\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.exe
+C:\Desarrollo\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.deps.json
+C:\Desarrollo\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.runtimeconfig.json
+C:\Desarrollo\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.runtimeconfig.dev.json
+C:\Desarrollo\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.dll
+C:\Desarrollo\p06pizza\bin\Debug\netcoreapp3.1\p06pizza.pdb
+C:\Desarrollo\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.csprojAssemblyReference.cache
+C:\Desarrollo\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.AssemblyInfoInputs.cache
+C:\Desarrollo\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.AssemblyInfo.cs
+C:\Desarrollo\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.dll
+C:\Desarrollo\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.pdb
+C:\Desarrollo\p06pizza\obj\Debug\netcoreapp3.1\p06pizza.genruntimeconfig.cache
