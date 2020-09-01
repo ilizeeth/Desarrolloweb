@@ -1,0 +1,13 @@
+C:\Desarrollo\p07Tablas\bin\Debug\netcoreapp3.1\p07Tablas.exe
+C:\Desarrollo\p07Tablas\bin\Debug\netcoreapp3.1\p07Tablas.deps.json
+C:\Desarrollo\p07Tablas\bin\Debug\netcoreapp3.1\p07Tablas.runtimeconfig.json
+C:\Desarrollo\p07Tablas\bin\Debug\netcoreapp3.1\p07Tablas.runtimeconfig.dev.json
+C:\Desarrollo\p07Tablas\bin\Debug\netcoreapp3.1\p07Tablas.dll
+C:\Desarrollo\p07Tablas\bin\Debug\netcoreapp3.1\p07Tablas.pdb
+C:\Desarrollo\p07Tablas\obj\Debug\netcoreapp3.1\p07Tablas.csprojAssemblyReference.cache
+C:\Desarrollo\p07Tablas\obj\Debug\netcoreapp3.1\p07Tablas.AssemblyInfoInputs.cache
+C:\Desarrollo\p07Tablas\obj\Debug\netcoreapp3.1\p07Tablas.AssemblyInfo.cs
+C:\Desarrollo\p07Tablas\obj\Debug\netcoreapp3.1\p07Tablas.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p07Tablas\obj\Debug\netcoreapp3.1\p07Tablas.dll
+C:\Desarrollo\p07Tablas\obj\Debug\netcoreapp3.1\p07Tablas.pdb
+C:\Desarrollo\p07Tablas\obj\Debug\netcoreapp3.1\p07Tablas.genruntimeconfig.cache
