@@ -1,0 +1,13 @@
+C:\Desarrollo\p05Ciclos\obj\Debug\netcoreapp3.1\p05Ciclos.csprojAssemblyReference.cache
+C:\Desarrollo\p05Ciclos\obj\Debug\netcoreapp3.1\p05Ciclos.AssemblyInfoInputs.cache
+C:\Desarrollo\p05Ciclos\obj\Debug\netcoreapp3.1\p05Ciclos.AssemblyInfo.cs
+C:\Desarrollo\p05Ciclos\obj\Debug\netcoreapp3.1\p05Ciclos.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p05Ciclos\bin\Debug\netcoreapp3.1\p05Ciclos.exe
+C:\Desarrollo\p05Ciclos\bin\Debug\netcoreapp3.1\p05Ciclos.deps.json
+C:\Desarrollo\p05Ciclos\bin\Debug\netcoreapp3.1\p05Ciclos.runtimeconfig.json
+C:\Desarrollo\p05Ciclos\bin\Debug\netcoreapp3.1\p05Ciclos.runtimeconfig.dev.json
+C:\Desarrollo\p05Ciclos\bin\Debug\netcoreapp3.1\p05Ciclos.dll
+C:\Desarrollo\p05Ciclos\bin\Debug\netcoreapp3.1\p05Ciclos.pdb
+C:\Desarrollo\p05Ciclos\obj\Debug\netcoreapp3.1\p05Ciclos.dll
+C:\Desarrollo\p05Ciclos\obj\Debug\netcoreapp3.1\p05Ciclos.pdb
+C:\Desarrollo\p05Ciclos\obj\Debug\netcoreapp3.1\p05Ciclos.genruntimeconfig.cache
