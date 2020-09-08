@@ -1,0 +1,13 @@
+C:\Desarrollo\p08VectorProm\bin\Debug\netcoreapp3.1\p08VectorProm.exe
+C:\Desarrollo\p08VectorProm\bin\Debug\netcoreapp3.1\p08VectorProm.deps.json
+C:\Desarrollo\p08VectorProm\bin\Debug\netcoreapp3.1\p08VectorProm.runtimeconfig.json
+C:\Desarrollo\p08VectorProm\bin\Debug\netcoreapp3.1\p08VectorProm.runtimeconfig.dev.json
+C:\Desarrollo\p08VectorProm\bin\Debug\netcoreapp3.1\p08VectorProm.dll
+C:\Desarrollo\p08VectorProm\bin\Debug\netcoreapp3.1\p08VectorProm.pdb
+C:\Desarrollo\p08VectorProm\obj\Debug\netcoreapp3.1\p08VectorProm.csprojAssemblyReference.cache
+C:\Desarrollo\p08VectorProm\obj\Debug\netcoreapp3.1\p08VectorProm.AssemblyInfoInputs.cache
+C:\Desarrollo\p08VectorProm\obj\Debug\netcoreapp3.1\p08VectorProm.AssemblyInfo.cs
+C:\Desarrollo\p08VectorProm\obj\Debug\netcoreapp3.1\p08VectorProm.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p08VectorProm\obj\Debug\netcoreapp3.1\p08VectorProm.dll
+C:\Desarrollo\p08VectorProm\obj\Debug\netcoreapp3.1\p08VectorProm.pdb
+C:\Desarrollo\p08VectorProm\obj\Debug\netcoreapp3.1\p08VectorProm.genruntimeconfig.cache
