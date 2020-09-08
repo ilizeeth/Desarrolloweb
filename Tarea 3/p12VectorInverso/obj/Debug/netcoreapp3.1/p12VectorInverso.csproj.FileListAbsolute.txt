@@ -1,0 +1,13 @@
+C:\Desarrollo\Tarea 3\p12VectorInverso\bin\Debug\netcoreapp3.1\p12VectorInverso.exe
+C:\Desarrollo\Tarea 3\p12VectorInverso\bin\Debug\netcoreapp3.1\p12VectorInverso.deps.json
+C:\Desarrollo\Tarea 3\p12VectorInverso\bin\Debug\netcoreapp3.1\p12VectorInverso.runtimeconfig.json
+C:\Desarrollo\Tarea 3\p12VectorInverso\bin\Debug\netcoreapp3.1\p12VectorInverso.runtimeconfig.dev.json
+C:\Desarrollo\Tarea 3\p12VectorInverso\bin\Debug\netcoreapp3.1\p12VectorInverso.dll
+C:\Desarrollo\Tarea 3\p12VectorInverso\bin\Debug\netcoreapp3.1\p12VectorInverso.pdb
+C:\Desarrollo\Tarea 3\p12VectorInverso\obj\Debug\netcoreapp3.1\p12VectorInverso.csprojAssemblyReference.cache
+C:\Desarrollo\Tarea 3\p12VectorInverso\obj\Debug\netcoreapp3.1\p12VectorInverso.AssemblyInfoInputs.cache
+C:\Desarrollo\Tarea 3\p12VectorInverso\obj\Debug\netcoreapp3.1\p12VectorInverso.AssemblyInfo.cs
+C:\Desarrollo\Tarea 3\p12VectorInverso\obj\Debug\netcoreapp3.1\p12VectorInverso.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Tarea 3\p12VectorInverso\obj\Debug\netcoreapp3.1\p12VectorInverso.dll
+C:\Desarrollo\Tarea 3\p12VectorInverso\obj\Debug\netcoreapp3.1\p12VectorInverso.pdb
+C:\Desarrollo\Tarea 3\p12VectorInverso\obj\Debug\netcoreapp3.1\p12VectorInverso.genruntimeconfig.cache
