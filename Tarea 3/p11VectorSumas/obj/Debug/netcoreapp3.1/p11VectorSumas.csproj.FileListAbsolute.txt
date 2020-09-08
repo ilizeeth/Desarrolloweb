@@ -1,0 +1,13 @@
+C:\Desarrollo\Tarea 3\p11VectorSumas\bin\Debug\netcoreapp3.1\p11VectorSumas.exe
+C:\Desarrollo\Tarea 3\p11VectorSumas\bin\Debug\netcoreapp3.1\p11VectorSumas.deps.json
+C:\Desarrollo\Tarea 3\p11VectorSumas\bin\Debug\netcoreapp3.1\p11VectorSumas.runtimeconfig.json
+C:\Desarrollo\Tarea 3\p11VectorSumas\bin\Debug\netcoreapp3.1\p11VectorSumas.runtimeconfig.dev.json
+C:\Desarrollo\Tarea 3\p11VectorSumas\bin\Debug\netcoreapp3.1\p11VectorSumas.dll
+C:\Desarrollo\Tarea 3\p11VectorSumas\bin\Debug\netcoreapp3.1\p11VectorSumas.pdb
+C:\Desarrollo\Tarea 3\p11VectorSumas\obj\Debug\netcoreapp3.1\p11VectorSumas.csprojAssemblyReference.cache
+C:\Desarrollo\Tarea 3\p11VectorSumas\obj\Debug\netcoreapp3.1\p11VectorSumas.AssemblyInfoInputs.cache
+C:\Desarrollo\Tarea 3\p11VectorSumas\obj\Debug\netcoreapp3.1\p11VectorSumas.AssemblyInfo.cs
+C:\Desarrollo\Tarea 3\p11VectorSumas\obj\Debug\netcoreapp3.1\p11VectorSumas.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Tarea 3\p11VectorSumas\obj\Debug\netcoreapp3.1\p11VectorSumas.dll
+C:\Desarrollo\Tarea 3\p11VectorSumas\obj\Debug\netcoreapp3.1\p11VectorSumas.pdb
+C:\Desarrollo\Tarea 3\p11VectorSumas\obj\Debug\netcoreapp3.1\p11VectorSumas.genruntimeconfig.cache
