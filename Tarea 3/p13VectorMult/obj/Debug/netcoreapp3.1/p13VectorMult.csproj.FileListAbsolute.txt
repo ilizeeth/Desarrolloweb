@@ -1,0 +1,13 @@
+C:\Desarrollo\Tarea 3\p13VectorMult\bin\Debug\netcoreapp3.1\p13VectorMult.exe
+C:\Desarrollo\Tarea 3\p13VectorMult\bin\Debug\netcoreapp3.1\p13VectorMult.deps.json
+C:\Desarrollo\Tarea 3\p13VectorMult\bin\Debug\netcoreapp3.1\p13VectorMult.runtimeconfig.json
+C:\Desarrollo\Tarea 3\p13VectorMult\bin\Debug\netcoreapp3.1\p13VectorMult.runtimeconfig.dev.json
+C:\Desarrollo\Tarea 3\p13VectorMult\bin\Debug\netcoreapp3.1\p13VectorMult.dll
+C:\Desarrollo\Tarea 3\p13VectorMult\bin\Debug\netcoreapp3.1\p13VectorMult.pdb
+C:\Desarrollo\Tarea 3\p13VectorMult\obj\Debug\netcoreapp3.1\p13VectorMult.csprojAssemblyReference.cache
+C:\Desarrollo\Tarea 3\p13VectorMult\obj\Debug\netcoreapp3.1\p13VectorMult.AssemblyInfoInputs.cache
+C:\Desarrollo\Tarea 3\p13VectorMult\obj\Debug\netcoreapp3.1\p13VectorMult.AssemblyInfo.cs
+C:\Desarrollo\Tarea 3\p13VectorMult\obj\Debug\netcoreapp3.1\p13VectorMult.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Tarea 3\p13VectorMult\obj\Debug\netcoreapp3.1\p13VectorMult.dll
+C:\Desarrollo\Tarea 3\p13VectorMult\obj\Debug\netcoreapp3.1\p13VectorMult.pdb
+C:\Desarrollo\Tarea 3\p13VectorMult\obj\Debug\netcoreapp3.1\p13VectorMult.genruntimeconfig.cache
