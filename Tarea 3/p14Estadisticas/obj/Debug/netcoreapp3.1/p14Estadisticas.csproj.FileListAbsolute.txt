@@ -1,0 +1,13 @@
+C:\Desarrollo\Tarea 3\p14Estadisticas\bin\Debug\netcoreapp3.1\p14Estadisticas.exe
+C:\Desarrollo\Tarea 3\p14Estadisticas\bin\Debug\netcoreapp3.1\p14Estadisticas.deps.json
+C:\Desarrollo\Tarea 3\p14Estadisticas\bin\Debug\netcoreapp3.1\p14Estadisticas.runtimeconfig.json
+C:\Desarrollo\Tarea 3\p14Estadisticas\bin\Debug\netcoreapp3.1\p14Estadisticas.runtimeconfig.dev.json
+C:\Desarrollo\Tarea 3\p14Estadisticas\bin\Debug\netcoreapp3.1\p14Estadisticas.dll
+C:\Desarrollo\Tarea 3\p14Estadisticas\bin\Debug\netcoreapp3.1\p14Estadisticas.pdb
+C:\Desarrollo\Tarea 3\p14Estadisticas\obj\Debug\netcoreapp3.1\p14Estadisticas.csprojAssemblyReference.cache
+C:\Desarrollo\Tarea 3\p14Estadisticas\obj\Debug\netcoreapp3.1\p14Estadisticas.AssemblyInfoInputs.cache
+C:\Desarrollo\Tarea 3\p14Estadisticas\obj\Debug\netcoreapp3.1\p14Estadisticas.AssemblyInfo.cs
+C:\Desarrollo\Tarea 3\p14Estadisticas\obj\Debug\netcoreapp3.1\p14Estadisticas.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Tarea 3\p14Estadisticas\obj\Debug\netcoreapp3.1\p14Estadisticas.dll
+C:\Desarrollo\Tarea 3\p14Estadisticas\obj\Debug\netcoreapp3.1\p14Estadisticas.pdb
+C:\Desarrollo\Tarea 3\p14Estadisticas\obj\Debug\netcoreapp3.1\p14Estadisticas.genruntimeconfig.cache
