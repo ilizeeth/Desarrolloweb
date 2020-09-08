@@ -1,0 +1,13 @@
+C:\Desarrollo\Tarea 3\p09NumAleatorio\bin\Debug\netcoreapp3.1\p09NumAleatorio.exe
+C:\Desarrollo\Tarea 3\p09NumAleatorio\bin\Debug\netcoreapp3.1\p09NumAleatorio.deps.json
+C:\Desarrollo\Tarea 3\p09NumAleatorio\bin\Debug\netcoreapp3.1\p09NumAleatorio.runtimeconfig.json
+C:\Desarrollo\Tarea 3\p09NumAleatorio\bin\Debug\netcoreapp3.1\p09NumAleatorio.runtimeconfig.dev.json
+C:\Desarrollo\Tarea 3\p09NumAleatorio\bin\Debug\netcoreapp3.1\p09NumAleatorio.dll
+C:\Desarrollo\Tarea 3\p09NumAleatorio\bin\Debug\netcoreapp3.1\p09NumAleatorio.pdb
+C:\Desarrollo\Tarea 3\p09NumAleatorio\obj\Debug\netcoreapp3.1\p09NumAleatorio.csprojAssemblyReference.cache
+C:\Desarrollo\Tarea 3\p09NumAleatorio\obj\Debug\netcoreapp3.1\p09NumAleatorio.AssemblyInfoInputs.cache
+C:\Desarrollo\Tarea 3\p09NumAleatorio\obj\Debug\netcoreapp3.1\p09NumAleatorio.AssemblyInfo.cs
+C:\Desarrollo\Tarea 3\p09NumAleatorio\obj\Debug\netcoreapp3.1\p09NumAleatorio.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Tarea 3\p09NumAleatorio\obj\Debug\netcoreapp3.1\p09NumAleatorio.dll
+C:\Desarrollo\Tarea 3\p09NumAleatorio\obj\Debug\netcoreapp3.1\p09NumAleatorio.pdb
+C:\Desarrollo\Tarea 3\p09NumAleatorio\obj\Debug\netcoreapp3.1\p09NumAleatorio.genruntimeconfig.cache
