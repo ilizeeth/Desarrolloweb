@@ -1,0 +1,13 @@
+C:\Desarrollo\p17diccionarios\bin\Debug\netcoreapp3.1\p17diccionarios.exe
+C:\Desarrollo\p17diccionarios\bin\Debug\netcoreapp3.1\p17diccionarios.deps.json
+C:\Desarrollo\p17diccionarios\bin\Debug\netcoreapp3.1\p17diccionarios.runtimeconfig.json
+C:\Desarrollo\p17diccionarios\bin\Debug\netcoreapp3.1\p17diccionarios.runtimeconfig.dev.json
+C:\Desarrollo\p17diccionarios\bin\Debug\netcoreapp3.1\p17diccionarios.dll
+C:\Desarrollo\p17diccionarios\bin\Debug\netcoreapp3.1\p17diccionarios.pdb
+C:\Desarrollo\p17diccionarios\obj\Debug\netcoreapp3.1\p17diccionarios.csprojAssemblyReference.cache
+C:\Desarrollo\p17diccionarios\obj\Debug\netcoreapp3.1\p17diccionarios.AssemblyInfoInputs.cache
+C:\Desarrollo\p17diccionarios\obj\Debug\netcoreapp3.1\p17diccionarios.AssemblyInfo.cs
+C:\Desarrollo\p17diccionarios\obj\Debug\netcoreapp3.1\p17diccionarios.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p17diccionarios\obj\Debug\netcoreapp3.1\p17diccionarios.dll
+C:\Desarrollo\p17diccionarios\obj\Debug\netcoreapp3.1\p17diccionarios.pdb
+C:\Desarrollo\p17diccionarios\obj\Debug\netcoreapp3.1\p17diccionarios.genruntimeconfig.cache

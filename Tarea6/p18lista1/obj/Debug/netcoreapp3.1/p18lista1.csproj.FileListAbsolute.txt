@@ -1,0 +1,13 @@
+C:\Desarrollo\p18lista1\bin\Debug\netcoreapp3.1\p18lista1.exe
+C:\Desarrollo\p18lista1\bin\Debug\netcoreapp3.1\p18lista1.deps.json
+C:\Desarrollo\p18lista1\bin\Debug\netcoreapp3.1\p18lista1.runtimeconfig.json
+C:\Desarrollo\p18lista1\bin\Debug\netcoreapp3.1\p18lista1.runtimeconfig.dev.json
+C:\Desarrollo\p18lista1\bin\Debug\netcoreapp3.1\p18lista1.dll
+C:\Desarrollo\p18lista1\bin\Debug\netcoreapp3.1\p18lista1.pdb
+C:\Desarrollo\p18lista1\obj\Debug\netcoreapp3.1\p18lista1.csprojAssemblyReference.cache
+C:\Desarrollo\p18lista1\obj\Debug\netcoreapp3.1\p18lista1.AssemblyInfoInputs.cache
+C:\Desarrollo\p18lista1\obj\Debug\netcoreapp3.1\p18lista1.AssemblyInfo.cs
+C:\Desarrollo\p18lista1\obj\Debug\netcoreapp3.1\p18lista1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p18lista1\obj\Debug\netcoreapp3.1\p18lista1.dll
+C:\Desarrollo\p18lista1\obj\Debug\netcoreapp3.1\p18lista1.pdb
+C:\Desarrollo\p18lista1\obj\Debug\netcoreapp3.1\p18lista1.genruntimeconfig.cache
