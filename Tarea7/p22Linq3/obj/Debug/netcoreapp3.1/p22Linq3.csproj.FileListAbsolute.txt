@@ -1,0 +1,13 @@
+C:\Desarrollo\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.exe
+C:\Desarrollo\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.deps.json
+C:\Desarrollo\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.runtimeconfig.json
+C:\Desarrollo\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.runtimeconfig.dev.json
+C:\Desarrollo\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.dll
+C:\Desarrollo\p22Linq3\bin\Debug\netcoreapp3.1\p22Linq3.pdb
+C:\Desarrollo\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.csprojAssemblyReference.cache
+C:\Desarrollo\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.AssemblyInfoInputs.cache
+C:\Desarrollo\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.AssemblyInfo.cs
+C:\Desarrollo\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.dll
+C:\Desarrollo\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.pdb
+C:\Desarrollo\p22Linq3\obj\Debug\netcoreapp3.1\p22Linq3.genruntimeconfig.cache

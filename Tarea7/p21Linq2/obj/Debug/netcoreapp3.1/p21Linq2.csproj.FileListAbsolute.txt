@@ -1,0 +1,13 @@
+C:\Desarrollo\p21Linq2\bin\Debug\netcoreapp3.1\p21Linq2.exe
+C:\Desarrollo\p21Linq2\bin\Debug\netcoreapp3.1\p21Linq2.deps.json
+C:\Desarrollo\p21Linq2\bin\Debug\netcoreapp3.1\p21Linq2.runtimeconfig.json
+C:\Desarrollo\p21Linq2\bin\Debug\netcoreapp3.1\p21Linq2.runtimeconfig.dev.json
+C:\Desarrollo\p21Linq2\bin\Debug\netcoreapp3.1\p21Linq2.dll
+C:\Desarrollo\p21Linq2\bin\Debug\netcoreapp3.1\p21Linq2.pdb
+C:\Desarrollo\p21Linq2\obj\Debug\netcoreapp3.1\p21Linq2.csprojAssemblyReference.cache
+C:\Desarrollo\p21Linq2\obj\Debug\netcoreapp3.1\p21Linq2.AssemblyInfoInputs.cache
+C:\Desarrollo\p21Linq2\obj\Debug\netcoreapp3.1\p21Linq2.AssemblyInfo.cs
+C:\Desarrollo\p21Linq2\obj\Debug\netcoreapp3.1\p21Linq2.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p21Linq2\obj\Debug\netcoreapp3.1\p21Linq2.dll
+C:\Desarrollo\p21Linq2\obj\Debug\netcoreapp3.1\p21Linq2.pdb
+C:\Desarrollo\p21Linq2\obj\Debug\netcoreapp3.1\p21Linq2.genruntimeconfig.cache
