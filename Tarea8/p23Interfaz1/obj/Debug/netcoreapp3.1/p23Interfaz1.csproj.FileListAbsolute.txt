@@ -1,0 +1,13 @@
+C:\Desarrollo\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.exe
+C:\Desarrollo\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.deps.json
+C:\Desarrollo\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.runtimeconfig.json
+C:\Desarrollo\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.runtimeconfig.dev.json
+C:\Desarrollo\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.dll
+C:\Desarrollo\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.pdb
+C:\Desarrollo\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.csprojAssemblyReference.cache
+C:\Desarrollo\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.AssemblyInfoInputs.cache
+C:\Desarrollo\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.AssemblyInfo.cs
+C:\Desarrollo\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.dll
+C:\Desarrollo\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.pdb
+C:\Desarrollo\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.genruntimeconfig.cache
