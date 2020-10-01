@@ -1,0 +1,13 @@
+C:\Desarrollo\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.exe
+C:\Desarrollo\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.deps.json
+C:\Desarrollo\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.runtimeconfig.json
+C:\Desarrollo\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.runtimeconfig.dev.json
+C:\Desarrollo\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.dll
+C:\Desarrollo\p26Delegados2\bin\Debug\netcoreapp3.1\p26Delegados2.pdb
+C:\Desarrollo\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.csprojAssemblyReference.cache
+C:\Desarrollo\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.AssemblyInfoInputs.cache
+C:\Desarrollo\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.AssemblyInfo.cs
+C:\Desarrollo\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.dll
+C:\Desarrollo\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.pdb
+C:\Desarrollo\p26Delegados2\obj\Debug\netcoreapp3.1\p26Delegados2.genruntimeconfig.cache

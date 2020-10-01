@@ -1,0 +1,13 @@
+C:\Desarrollo\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.exe
+C:\Desarrollo\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.deps.json
+C:\Desarrollo\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.runtimeconfig.json
+C:\Desarrollo\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.runtimeconfig.dev.json
+C:\Desarrollo\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.dll
+C:\Desarrollo\p27Delegados3\bin\Debug\netcoreapp3.1\p27Delegados3.pdb
+C:\Desarrollo\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.csprojAssemblyReference.cache
+C:\Desarrollo\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.AssemblyInfoInputs.cache
+C:\Desarrollo\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.AssemblyInfo.cs
+C:\Desarrollo\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.csproj.CoreCompileInputs.cache
+C:\Desarrollo\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.dll
+C:\Desarrollo\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.pdb
+C:\Desarrollo\p27Delegados3\obj\Debug\netcoreapp3.1\p27Delegados3.genruntimeconfig.cache
