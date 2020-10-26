@@ -1,0 +1,73 @@
+@model HotelReservationv2.Models.tblGuests
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>tblGuests</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="txtGuestTitle" class="control-label"></label>
+                <input asp-for="txtGuestTitle" class="form-control" />
+                <span asp-validation-for="txtGuestTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtGuestForenames" class="control-label"></label>
+                <input asp-for="txtGuestForenames" class="form-control" />
+                <span asp-validation-for="txtGuestForenames" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtGuestSurnames" class="control-label"></label>
+                <input asp-for="txtGuestSurnames" class="form-control" />
+                <span asp-validation-for="txtGuestSurnames" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dteGuestDOB" class="control-label"></label>
+                <input asp-for="dteGuestDOB" class="form-control" />
+                <span asp-validation-for="dteGuestDOB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtGuestAddressStreet" class="control-label"></label>
+                <input asp-for="txtGuestAddressStreet" class="form-control" />
+                <span asp-validation-for="txtGuestAddressStreet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtGuestAddressTown" class="control-label"></label>
+                <input asp-for="txtGuestAddressTown" class="form-control" />
+                <span asp-validation-for="txtGuestAddressTown" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtGuestAddressCountry" class="control-label"></label>
+                <input asp-for="txtGuestAddressCountry" class="form-control" />
+                <span asp-validation-for="txtGuestAddressCountry" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtGuestAddressPostalCode" class="control-label"></label>
+                <input asp-for="txtGuestAddressPostalCode" class="form-control" />
+                <span asp-validation-for="txtGuestAddressPostalCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtGuestContactPhone" class="control-label"></label>
+                <input asp-for="txtGuestContactPhone" class="form-control" />
+                <span asp-validation-for="txtGuestContactPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

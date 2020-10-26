@@ -1,0 +1,87 @@
+@model HotelReservationv2.Models.tblCustomers
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>tblCustomers</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtCustomerTitle)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtCustomerTitle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtCustomerForenames)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtCustomerForenames)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtCustomerSurnames)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtCustomerSurnames)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CustomerDOB)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CustomerDOB)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtCustomerAddressStreet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtCustomerAddressStreet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtCustomerAddressTown)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtCustomerAddressTown)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtCustomerAddressCountry)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtCustomerAddressCountry)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtCustomerAddressPostalCode)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtCustomerAddressPostalCode)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtCustomerHomePhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtCustomerHomePhone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtCustomerMobilePhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtCustomerMobilePhone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.hypCustomerEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.hypCustomerEmail)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IngCutomerID" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

@@ -1,0 +1,94 @@
+@model IEnumerable<HotelReservationv2.Models.tblGuests>
+
+@{
+    ViewData["Title"] = "Guest";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by name: 
+            <input type="text" name="SearchString" />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.txtGuestTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.txtGuestForenames)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.txtGuestSurnames)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dteGuestDOB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.txtGuestAddressStreet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.txtGuestAddressTown)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.txtGuestAddressCountry)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.txtGuestAddressPostalCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.txtGuestContactPhone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.txtGuestTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.txtGuestForenames)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.txtGuestSurnames)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dteGuestDOB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.txtGuestAddressStreet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.txtGuestAddressTown)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.txtGuestAddressCountry)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.txtGuestAddressPostalCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.txtGuestContactPhone)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ingGuestID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ingGuestID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ingGuestID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

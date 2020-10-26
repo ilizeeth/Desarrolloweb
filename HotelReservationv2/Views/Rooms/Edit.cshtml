@@ -1,0 +1,54 @@
+@model HotelReservationv2.Models.tblRooms
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>tblRooms</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ingRoomID" />
+            <div class="form-group">
+                <label asp-for="ingRoomTypeID" class="control-label"></label>
+                <input asp-for="ingRoomTypeID" class="form-control" />
+                <span asp-validation-for="ingRoomTypeID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ingRoomBandID" class="control-label"></label>
+                <input asp-for="ingRoomBandID" class="form-control" />
+                <span asp-validation-for="ingRoomBandID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ingRoomPriceID" class="control-label"></label>
+                <input asp-for="ingRoomPriceID" class="form-control" />
+                <span asp-validation-for="ingRoomPriceID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="strFloor" class="control-label"></label>
+                <input asp-for="strFloor" class="form-control" />
+                <span asp-validation-for="strFloor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="memAdditionNotes" class="control-label"></label>
+                <input asp-for="memAdditionNotes" class="form-control" />
+                <span asp-validation-for="memAdditionNotes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,73 @@
+@model HotelReservationv2.Models.tblBookings
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>tblBookings</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ingCustomerID" class="control-label"></label>
+                <input asp-for="ingCustomerID" class="form-control" />
+                <span asp-validation-for="ingCustomerID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dteDateBookingMade" class="control-label"></label>
+                <input asp-for="dteDateBookingMade" class="form-control" />
+                <span asp-validation-for="dteDateBookingMade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tmeTimeBookingMade" class="control-label"></label>
+                <input asp-for="tmeTimeBookingMade" class="form-control" />
+                <span asp-validation-for="tmeTimeBookingMade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dteBookedStartDate" class="control-label"></label>
+                <input asp-for="dteBookedStartDate" class="form-control" />
+                <span asp-validation-for="dteBookedStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dteBookedEndDate" class="control-label"></label>
+                <input asp-for="dteBookedEndDate" class="form-control" />
+                <span asp-validation-for="dteBookedEndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dteTotalPaymentDueDate" class="control-label"></label>
+                <input asp-for="dteTotalPaymentDueDate" class="form-control" />
+                <span asp-validation-for="dteTotalPaymentDueDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dteTotalPaymentDueAmount" class="control-label"></label>
+                <input asp-for="dteTotalPaymentDueAmount" class="form-control" />
+                <span asp-validation-for="dteTotalPaymentDueAmount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="memBookingComments" class="control-label"></label>
+                <input asp-for="memBookingComments" class="form-control" />
+                <span asp-validation-for="memBookingComments" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dteTotalPaymentMadeOn" class="control-label"></label>
+                <input asp-for="dteTotalPaymentMadeOn" class="form-control" />
+                <span asp-validation-for="dteTotalPaymentMadeOn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

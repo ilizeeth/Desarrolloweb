@@ -1,0 +1,72 @@
+@model HotelReservationv2.Models.tblGuests
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>tblGuests</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtGuestTitle)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtGuestTitle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtGuestForenames)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtGuestForenames)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtGuestSurnames)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtGuestSurnames)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.dteGuestDOB)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.dteGuestDOB)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtGuestAddressStreet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtGuestAddressStreet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtGuestAddressTown)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtGuestAddressTown)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtGuestAddressCountry)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtGuestAddressCountry)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtGuestAddressPostalCode)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtGuestAddressPostalCode)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.txtGuestContactPhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.txtGuestContactPhone)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ingGuestID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

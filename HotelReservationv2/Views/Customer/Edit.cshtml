@@ -1,0 +1,84 @@
+@model HotelReservationv2.Models.tblCustomers
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>tblCustomers</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IngCutomerID" />
+            <div class="form-group">
+                <label asp-for="txtCustomerTitle" class="control-label"></label>
+                <input asp-for="txtCustomerTitle" class="form-control" />
+                <span asp-validation-for="txtCustomerTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtCustomerForenames" class="control-label"></label>
+                <input asp-for="txtCustomerForenames" class="form-control" />
+                <span asp-validation-for="txtCustomerForenames" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtCustomerSurnames" class="control-label"></label>
+                <input asp-for="txtCustomerSurnames" class="form-control" />
+                <span asp-validation-for="txtCustomerSurnames" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerDOB" class="control-label"></label>
+                <input asp-for="CustomerDOB" class="form-control" />
+                <span asp-validation-for="CustomerDOB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtCustomerAddressStreet" class="control-label"></label>
+                <input asp-for="txtCustomerAddressStreet" class="form-control" />
+                <span asp-validation-for="txtCustomerAddressStreet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtCustomerAddressTown" class="control-label"></label>
+                <input asp-for="txtCustomerAddressTown" class="form-control" />
+                <span asp-validation-for="txtCustomerAddressTown" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtCustomerAddressCountry" class="control-label"></label>
+                <input asp-for="txtCustomerAddressCountry" class="form-control" />
+                <span asp-validation-for="txtCustomerAddressCountry" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtCustomerAddressPostalCode" class="control-label"></label>
+                <input asp-for="txtCustomerAddressPostalCode" class="form-control" />
+                <span asp-validation-for="txtCustomerAddressPostalCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtCustomerHomePhone" class="control-label"></label>
+                <input asp-for="txtCustomerHomePhone" class="form-control" />
+                <span asp-validation-for="txtCustomerHomePhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="txtCustomerMobilePhone" class="control-label"></label>
+                <input asp-for="txtCustomerMobilePhone" class="form-control" />
+                <span asp-validation-for="txtCustomerMobilePhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="hypCustomerEmail" class="control-label"></label>
+                <input asp-for="hypCustomerEmail" class="form-control" />
+                <span asp-validation-for="hypCustomerEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

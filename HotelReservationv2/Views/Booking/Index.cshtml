@@ -1,0 +1,86 @@
+@model IEnumerable<HotelReservationv2.Models.tblBookings>
+
+@{
+    ViewData["Title"] = "Booking";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ingCustomerID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dteDateBookingMade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tmeTimeBookingMade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dteBookedStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dteBookedEndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dteTotalPaymentDueDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dteTotalPaymentDueAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.memBookingComments)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dteTotalPaymentMadeOn)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ingCustomerID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dteDateBookingMade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tmeTimeBookingMade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dteBookedStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dteBookedEndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dteTotalPaymentDueDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dteTotalPaymentDueAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.memBookingComments)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dteTotalPaymentMadeOn)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ingBookingID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ingBookingID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ingBookingID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
