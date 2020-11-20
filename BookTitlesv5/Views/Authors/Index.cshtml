@@ -1,0 +1,57 @@
+@model IEnumerable<BookTitles.Models.Author>
+
+@{
+    ViewData["Title"] = "Authors";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by name: 
+            <input type="text" name="SearchString" />
+            <input type="submit" value="Search" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+             <th>
+                @Html.DisplayNameFor(model => model.AuthorID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorFirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorLastName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorFirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorLastName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AuthorID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AuthorID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AuthorID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

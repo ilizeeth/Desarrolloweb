@@ -1,0 +1,42 @@
+@model IEnumerable<BookTitles.Models.BookCategory>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Category.CategoryDescription)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.BookTitle.Title)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookTitle.Title)
+            </td>
+            <td>
+                
+                @Html.ActionLink("Details", "Details", new { id=item.ISBN_Number, id2=item.CategoryID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.ISBN_Number, id2=item.CategoryID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
